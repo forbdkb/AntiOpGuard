@@ -1,0 +1,6 @@
+name: AntiOpGuard
+version: 1.0.0
+main: com.forbdkb.antiopguard.AntiOpPlugin
+api-version: '1.21'
+author: forbdkb
+description: Blocks all players from using /op and /deop. Console only.
